@@ -1,0 +1,67 @@
+[
+  {
+    "type": "Bog",
+    "Titel": "The Great Gatsby",
+    "Forfatter": "F. Scott Fitzgerald",
+    "Genrer": [ "Drama", "Klassiker", "Fiktion" ],
+    "PublikationsAar": 1925,
+    "Udgiver": "Scribner",
+    "AntalSider": 180,
+    "Kapitler": 9
+  },
+  {
+    "type": "Bog",
+    "Titel": "Dune",
+    "Forfatter": "Frank Herbert",
+    "Genrer": [ "Science Fiction" ],
+    "PublikationsAar": 1965,
+    "Udgiver": "Chilton Books",
+    "AntalSider": 412,
+    "Kapitler": 24
+  },
+  {
+    "type": "Bog",
+    "Titel": "1984",
+    "Forfatter": "George Orwell",
+    "Genrer": [ "Dystopisk", "Klassiker" ],
+    "PublikationsAar": 1949,
+    "Udgiver": "Secker & Warburg",
+    "AntalSider": 328,
+    "Kapitler": 23
+  },
+  {
+    "type": "Bog",
+    "Titel": "Brave New World",
+    "Forfatter": "Aldous Huxley",
+    "Genrer": [ "Science Fiction", "Dystopisk", "Klassiker" ],
+    "PublikationsAar": 1932,
+    "Udgiver": "Chatto & Windus",
+    "AntalSider": 311,
+    "Kapitler": 18
+  },
+  {
+
+    "type": "Tegneserie",
+    "Titel": "Watchmen",
+    "Forfatter": "Alan Moore",
+    "Genrer": [ "Science Fiction", "Dystopisk" ],
+    "PublikationsAar": 1986,
+    "Udgiver": "DC Comics, US and Titan Books, UK",
+    "AntalSider": 420,
+    "Illustrator": "Dave Gibbons",
+    "Farve": true,
+    "Sort_Hvid": false
+  },
+  {
+    "type": "Lydbog",
+    "Titel": "The Catcher in the Rye",
+    "Forfatter": "J.D. Salinger",
+    "Genrer": [ "Fiktion", "Drama", "Klassiker" ],
+    "PublikationsAar": 1951,
+    "Udgiver": "Little, Brown and Company",
+    "IndtaltAf": "Peter Biering",
+    "LaengdeIMinutter": 690
+  }
+]
+
+
